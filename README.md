@@ -4,6 +4,8 @@ This is the repository related to the Dow Jones Technical Assignemnt.
 
 Data: https://github.com/felixdrinkall/financial-news-dataset
 
+Solution: nbs/main.ipynb
+
 ## Assignment
 
 Objective: The purpose of this assignment is to assess your skills in Natural Language
