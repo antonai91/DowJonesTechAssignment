@@ -10,8 +10,11 @@ dependencies = [
     "langchain-chroma>=0.2.4",
     "langchain-community>=0.3.24",
     "langchain-openai>=0.3.18",
+    "matplotlib>=3.10.3",
+    "nbformat>=4.2.0",
     "openai>=1.82.1",
     "pandas>=2.2.3",
+    "plotly>=6.1.2",
     "pyarrow>=20.0.0",
     "scikit-learn>=1.6.1",
 ]
